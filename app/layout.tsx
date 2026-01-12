@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import SkinAssistant from '@/components/SkinAssistant';
 
 export const metadata: Metadata = {
-    title: 'Dr. Skin | Professional Dermatology Clinic',
+    title: 'Dr. Asia Bano | Professional Dermatology Clinic',
     description: 'Expert dermatological care, diagnosis assistance, and treatment.',
 };
 
