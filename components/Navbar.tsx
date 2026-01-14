@@ -72,7 +72,7 @@ export default function Navbar() {
 
             {/* Mobile Menu Dropdown */}
             {isMenuOpen && (
-                <div className="hidden-desktop animate-fade-in" style={{
+                <div className="mobile-nav-menu animate-fade-in" style={{
                     position: 'absolute',
                     top: '80px',
                     left: 0,
